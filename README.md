@@ -1,11 +1,21 @@
-# 💫 About Me:
-👋 Hello, its Bedirhan. I am 23 years old for now :)<br>🏫 I'm studying in CS in Dokuz Eylul University, Izmir, Turkiye<br>🌱 I'm trying to learn Java, C#, Python and C
+<h1 align="center">Hello 👋, Its Bedirhan Karaahmetli</h1>
+<h3 align="center">Computer Science student in Dokuz Eylul University, Turkey</h3>
 
+- 🌱 I’m currently learning **Unity and Swift**
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/banabedoderler#2473) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bedirhankaraahmetli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bedirhankaraahmetli) 
+- 💬 Ask me about **Computer Science Lessons**
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhankaraahmetli&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 📫 How to reach me **bedirhankaraahmetli@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/16XuCbTWPdt_ZjQaH7E2YCqMQLxzJSvTO/view?usp=drive_link](https://drive.google.com/file/d/16XuCbTWPdt_ZjQaH7E2YCqMQLxzJSvTO/view?usp=drive_link)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bedirhankaraahmetli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bedirhankaraahmetli" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/bedirhankaraahmetli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bedirhankaraahmetli" height="30" width="40" /></a>
+<a href="https://instagram.com/bedirhankaraahmetli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bedirhankaraahmetli" height="30" width="40" /></a>
+<a href="https://discord.gg/banabedoderler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="banabedoderler" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
