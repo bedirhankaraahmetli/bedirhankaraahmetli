@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋, Its Bedirhan Karaahmetli</h1>
 <h3 align="center">Computer Science student in Dokuz Eylul University, Turkey</h3>
 
-- 🌱 I’m currently learning **Unity and Swift**
+- 🌱 I’m currently learning **Unity Game Development**
 
 - 💬 Ask me about **Computer Science Lessons**
 
 - 📫 How to reach me **bedirhankaraahmetli@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16XuCbTWPdt_ZjQaH7E2YCqMQLxzJSvTO/view?usp=drive_link](https://drive.google.com/file/d/16XuCbTWPdt_ZjQaH7E2YCqMQLxzJSvTO/view?usp=drive_link)
+- 📄 Know about my experiences **bedirhankaraahmetli.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
