@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **bedirhankaraahmetli@gmail.com**
 
-- 📄 Know about my experiences **bedirhankaraahmetli.com**
+- 📄 Know about my experiences **www.bedirhankaraahmetli.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
