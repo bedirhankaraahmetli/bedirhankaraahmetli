@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, Its Bedirhan Karaahmetli</h1>
 <h3 align="center">Computer Science student in Dokuz Eylul University, Turkey</h3>
 
-- 🌱 I’m currently learning **Data Sciencec**
+- 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **Computer Science Lessons**
 
